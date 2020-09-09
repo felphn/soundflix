@@ -1,0 +1,48 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Lorem Ipsum 1",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "Lorem Ipsum",
+        "url": ""
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Lorem Ipsum 2",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "Lorem Ipsum",
+        "url": ""
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Lorem Ipsum 3",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "Lorem Ipsum",
+        "url": ""
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Lorem Ipsum 4",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "Lorem Ipsum",
+        "url": ""
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Shawn Mendes - Stitches (in the Live Lounge)",
+      "url": "https://www.youtube.com/watch?v=56D_BXMzbBk"
+    }
+  ]
+}
